@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Default user role</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id/>
+        <federated_id>XWOahkrI7KssH+3B8Aj1F8bnRwoP1CuaixMOg98bl2U=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_2205870_compan_0.user</name>
